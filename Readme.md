@@ -71,10 +71,9 @@ The application uses JWT (JSON Web Tokens) for secure authentication and authori
 ## 📌 Future Enhancements
 
 - Expense Categories
-- Reports & Analytics
-- Monthly Dashboard
-- Email Notifications
-- Unit & Integration Testing
+- Budget Setting for Each Category
+- Dashboard
+- Category-wise Analysis
 
 ## 👨‍💻 Author
 
